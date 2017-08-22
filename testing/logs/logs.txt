@@ -1,0 +1,25 @@
+25-07-2017 11:09:17 INFO  TrailTest:18 - ************
+25-07-2017 11:09:22 INFO  TrailTest:21 - Access to FireFox Browser ver:50
+25-07-2017 11:09:22 INFO  TrailTest:23 - Navigated to URLhttp://192.168.0.122:9012/mifare-web/admin/login#no-back-button
+25-07-2017 11:09:22 INFO  TrailTest:33 - Navigated to Login_Page, screenshot captured
+25-07-2017 11:09:22 INFO  TrailTest:34 - Page Title : NXP Admin Portal
+25-07-2017 11:10:09 INFO  TrailTest:18 - ************
+25-07-2017 11:10:13 INFO  TrailTest:21 - Access to FireFox Browser ver:50
+25-07-2017 11:10:14 INFO  TrailTest:23 - Navigated to URL http://192.168.0.122:9012/mifare-web/admin/login#no-back-button
+25-07-2017 11:10:14 INFO  TrailTest:33 - Navigated to Login_Page, screenshot captured
+25-07-2017 11:10:14 INFO  TrailTest:34 - Page Title : NXP Admin Portal
+25-07-2017 11:35:28 INFO  TrailTest:19 - ************
+25-07-2017 11:35:33 INFO  TrailTest:22 - Access to FireFox Browser ver:50
+25-07-2017 11:35:33 INFO  TrailTest:24 - Navigated to URL http://192.168.0.122:9012/mifare-web/admin/login#no-back-button
+25-07-2017 11:35:33 INFO  TrailTest:30 - Navigated to Login_Page, screenshot captured
+25-07-2017 11:35:33 INFO  TrailTest:31 - Page Title : NXP Admin Portal
+25-07-2017 12:30:36 INFO  TrailTest:16 - ************
+25-07-2017 12:30:41 INFO  TrailTest:19 - Access to FireFox Browser ver:50
+25-07-2017 12:30:41 INFO  TrailTest:21 - Navigated to URL http://192.168.0.122:9012/mifare-web/admin/login#no-back-button
+25-07-2017 12:30:41 INFO  TrailTest:27 - Navigated to Login_Page, screenshot captured
+25-07-2017 12:30:41 INFO  TrailTest:28 - Page Title : NXP Admin Portal
+27-07-2017 09:51:51 INFO  TrailTest:16 - ************
+27-07-2017 09:51:56 INFO  TrailTest:19 - Access to FireFox Browser ver:50
+27-07-2017 09:51:56 INFO  TrailTest:21 - Navigated to URL http://192.168.0.122:9012/mifare-web/admin/login#no-back-button
+27-07-2017 09:51:57 INFO  TrailTest:27 - Navigated to Login_Page, screenshot captured
+27-07-2017 09:51:57 INFO  TrailTest:28 - Page Title : NXP Admin Portal
